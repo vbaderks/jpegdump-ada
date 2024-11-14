@@ -1,0 +1,3 @@
+# Ignore the generated compiled files
+obj/
+
